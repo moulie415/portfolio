@@ -104,6 +104,8 @@ export default function Home() {
                 name={project.title}
                 description={project.description}
                 onClick={() => window.open(project.url)}
+                backgroundColor={project.backgroundColor}
+                padding={project.padding}
               />
             ))}
           </div>

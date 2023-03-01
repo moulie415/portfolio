@@ -96,7 +96,7 @@ const Resume = () => {
                     </div>
                   )}
 
-                  {resume.frameworks && (
+                  {resume.frameworks && !!resume.frameworks.length && (
                     <div className="mt-2 mob:mt-5">
                       <h2 className="text-lg">Frameworks</h2>
                       <ul className="list-disc">
