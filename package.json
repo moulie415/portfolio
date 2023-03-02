@@ -1,5 +1,6 @@
 {
-  "name": "react-portfolio-template",
+  "name": "portfolio",
+  "homepage": "https://example.com/portfolio",
   "version": "3.0",
   "private": true,
   "scripts": {
