@@ -52,7 +52,7 @@ const Blog = ({ posts }) => {
         },
         body: JSON.stringify({
           slug,
-        }),
+        }, null, '\t'),
       }).then(() => {
         router.reload(window.location.pathname);
       });

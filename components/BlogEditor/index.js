@@ -29,7 +29,7 @@ const BlogEditor = ({ post, close, refresh }) => {
           slug: post.slug,
           content: blogContent,
           variables: blogVariables,
-        }),
+        }, null, '\t'),
       }).then((data) => {
         if (data.status === 200) {
           close();
