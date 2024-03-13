@@ -48,15 +48,6 @@
 			"url": "https://play.google.com/store/apps/details?id=com.wordofgodforeachday&hl=en_GB",
 			"backgroundColor": "white",
 			"padding": 200
-		},
-		{
-			"id": "ce8f3801-e0a3-4e29-90ef-4a8571bc1fac",
-			"title": "Equation Dragger",
-			"description": "Mobile app (Uni project)",
-			"imageSrc": "https://play-lh.googleusercontent.com/1O6Ml9DGc5n-8qEU1_EIEYZ7n4FqBta7K8SJTUl-ZXVn6zLNIQ2FTLSWl5XvQNCNmJB4",
-			"url": "https://play.google.com/store/apps/details?id=com.mygdx.equationDragger",
-			"backgroundColor": "white",
-			"padding": 200
 		}
 	],
 	"services": [
@@ -73,7 +64,7 @@
 		{
 			"id": "3",
 			"title": "Game development",
-			"description": "I'm still relatively new to game development however I have gained a lot of confidence working with the Unity game engine and am on the look out for good ideas to work/collab on."
+			"description": "I'm still relatively new to game development however I have gained a lot of confidence working with the Unreal and Unity game engines and am on the look out for good ideas to work/collab on."
 		}
 	],
 	"aboutpara": "Shiba inus are indeed very cute and I wish I had one.",
